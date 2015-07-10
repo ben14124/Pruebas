@@ -18,6 +18,7 @@ public class Pruebap {
         System.out.println("Funcionaaaaa por favorrr");
         //Sirvioooooo! /o/
         //Jojojojo
+        System.out.println("prueba2");
     }
     
 }
